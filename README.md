@@ -1,6 +1,4 @@
-# BMS
-Multi-Tenant Building Management System (BMS) powered by Cloudflare Workers, D1 SQLite, and Telegram Bot API. Designed and developed by Iman Barzjan.
-# Dentiyar BMS Bot (سیستم مدیریت ساختمان هوشمند دنتیا)
+# Smart Building BMS (سیستم مدیریت هوشمند ساختمان)
 
 A robust, multi-tenant Building Management System (BMS) integrated with Telegram and powered by Cloudflare Workers & D1 database.
 یک سیستم چندمستاجری هوشمند برای مدیریت مجتمع‌های مسکونی و تجاری، یکپارچه‌سازی شده با تلگرام و زیرساخت ابری کلودفلر.
