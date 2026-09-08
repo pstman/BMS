@@ -1,0 +1,8 @@
+name = "smart-building-bms"
+main = "src/index.js"
+compatibility_date = "2026-06-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bms_db"
+database_id = "c72877e3-2e0f-42c1-92b9-05657eaa6fb3"
